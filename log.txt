@@ -1,0 +1,4 @@
+git fork using fork option in repository
+git clone https://github.com/Jhyo29/sop_task_1.git
+create a new branch
+git branch <branch_name>
